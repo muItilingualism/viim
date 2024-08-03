@@ -1,0 +1,13 @@
+this is the first line!
+this is the second line!
+the third line...
+and so on
+...
+...
+..
+.
+.
+
+TODO:
+    1. center cursor vertically when scrolling pages
+    2. add relative line number left of file text
